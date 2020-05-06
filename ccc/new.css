@@ -1,0 +1,26 @@
+#centr{
+ 
+    color:goldenrod;
+    text-align: center;
+    border-radius: 0 0 10px 10px;
+    background: cadetblue;
+    margin-bottom: 30px;
+    border: 3px solid gold;
+}
+body{
+    background: blue;
+}
+
+p::first-letter{font-size: 33; color: red;}
+p{
+    font-style: oblique;
+}
+#cen{
+ 
+    color:red;
+   text-align: center;
+
+    background: black;
+    margin-bottom: 30px;
+ 
+}
